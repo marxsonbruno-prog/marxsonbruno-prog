@@ -8,6 +8,8 @@ Eu sou o Marxson Bruno, sou um programdor Front End, atualmente estou aprendendo
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo">
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
 
-[![marxson stats](https://github-readme-stats.vercel.app/api?username=marxsonbruno-prog)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marxsonbruno-prog)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <a href="https://www.linkedin.com/in/marxson-bruno-13363721a/">
+  <img align="left" alt="LInkedin" width=22px" src="https://fr.vecteezy.com/png/21492036-linkedin-logo-png-gratuit-telecharger" />
+  </a>
+</p>
